@@ -6,7 +6,7 @@ Code for ECCV 2020 paper: AABO: Adaptive Anchor Box Optimization for Object Dete
 
 In AABO, we propose an adaptive anchor box optimization method for object detection via Bayesian sub-sampling, where optimal anchor configurations for a certain dataset and detector are determined automatically without manually adjustment.
 
-Experiments demonstrate the effectiveness of AABO on different detectors and datasets, e.g. achieving around 2.4% mAP improvement on COCO, and the optimal anchors can bring 1.4% to 2.4% mAP improvement on SOTA detectors by only optimizing anchor configurations, e.g. boost Mask RCNN from 40.3% to 42.3%, and boost HTC detector from 46.8% to 48.2%.
+Experiments demonstrate the effectiveness of AABO on different detectors and datasets, e.g. achieving around 2.4% mAP improvement on COCO, and the optimal anchors can bring 1.4% to 2.4% mAP improvement on SOTA detectors by only optimizing anchor configurations, e.g. boost Mask RCNN from 40.3% to 42.3%, and boost HTC detector from 46.8% to 48.2%.
 
 # Implementation
 
